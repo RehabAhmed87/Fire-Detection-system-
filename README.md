@@ -1,4 +1,4 @@
-# Fire Detection System (ITI graduation project)
+# Fire Detection System (ITI Final Project)
 ## Project Team
 * [Rehab Ahmed Hassan](https://www.linkedin.com/in/rehab-ahmed-273949195)
 * [Farha Ahmed Mohamed](https://www.linkedin.com/in/farha-elameer-8b62aa207)
