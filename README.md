@@ -1,7 +1,7 @@
 # Fire Detection System (ITI graduation project)
 ## Project Team
 * [Rehab Ahmed Hassan](https://www.linkedin.com/in/rehab-ahmed-273949195)
-* [Eng. Farha Ahmed Mohamed](https://www.linkedin.com/in/farha-elameer-8b62aa207)
+* [Farha Ahmed Mohamed](https://www.linkedin.com/in/farha-elameer-8b62aa207)
 * [Eman Elsayed Abosrea](https://www.linkedin.com/in/eman-elsayed-55293223a)
 * [Asmaa Maher Mohammad](https://www.linkedin.com/in/asmaa-maher-41802b254/?trk=contact-info)
   ## Project summary 
