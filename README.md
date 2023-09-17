@@ -10,5 +10,7 @@
 
 ## System design
 The system is designed based on the layered architecture model, Application, HAL, and MCAL.
+
 Microcontroller: ATmega32.
+
 
