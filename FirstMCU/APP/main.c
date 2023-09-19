@@ -20,10 +20,6 @@
 #include <avr/delay.h>
 #include <avr/interrupt.h>
 
-/*void fun(void){
-    HCLCD_vidClear();
-    HCLCD_vidSendString("smoke");
-}*/
 
 int main(){
 
